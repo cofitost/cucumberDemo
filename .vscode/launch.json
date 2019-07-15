@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "selab.cofitost.cucumberDemo.App",
+            "projectName": "cucumberDemo"
+        }
+    ]
+}
